@@ -7,3 +7,5 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=julien-lmnr&color=gray)
+
+Thank you, [Beanheads Vue](https://github.com/Heunsig/beanheads-vue), for the avatar!
